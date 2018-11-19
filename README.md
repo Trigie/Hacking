@@ -7,7 +7,7 @@
 
 # Web app
 * [Security Iditios](http://securityidiots.com/Web-Pentest/)
-## SQL Injection
+# SQL Injection
 Find table with column_name username
 SELECT table_schema, table_name FROM information_schema.columns WHERE column_name = 'username';
 Finding # of columns in table
@@ -35,3 +35,4 @@ https://www.doyler.net/security-not-included/easy-rm-to-mp3-converter-2-7-3-buff
 https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
 https://www.exploit-db.com/docs/28475.pdf
 http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/
+https://samsclass.info/127/proj/vuln-server.htm <heel uitgebreid!!>
