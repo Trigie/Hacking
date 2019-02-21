@@ -36,3 +36,13 @@ https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stac
 https://www.exploit-db.com/docs/28475.pdf
 http://www.primalsecurity.net/0x0-exploit-tutorial-buffer-overflow-vanilla-eip-overwrite-2/
 https://samsclass.info/127/proj/vuln-server.htm <heel uitgebreid!!>
+
+#AV Evasion
+Phantom https://github.com/oddcod3/Phantom-Evasion (Make sure to disable mining!)
+Shellter https://www.shellterproject.com/download/
+Veil https://www.veil-framework.com/
+
+
+
+
+
